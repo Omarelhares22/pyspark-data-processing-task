@@ -2,8 +2,11 @@ PySpark Data Processing Tasks
 
 
 Overview
+
 This repository contains a Jupyter Notebook (Copy_of_Task.ipynb) that demonstrates fundamental data processing operations using Apache Spark with PySpark on Resilient Distributed Datasets (RDDs) and DataFrames. The notebook includes a series of tasks that cover RDD creation, transformations, actions, and DataFrame operations, showcasing common big data processing techniques.
+
 Purpose
+
 The project is designed to illustrate how to perform data manipulation and analysis using PySpark, including:
 
 Creating and manipulating RDDs with NumPy.
@@ -13,7 +16,10 @@ Processing text data (tokenization, stopword removal, word frequency counting).
 Handling DataFrames for structured data analysis and managing NULL values.
 
 This serves as a practical guide for learning PySpark fundamentals and can be used as a reference for big data processing workflows.
+
 Tasks
+
+
 The notebook includes the following tasks:
 
 RDD Creation and Statistics:
