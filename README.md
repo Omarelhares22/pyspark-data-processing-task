@@ -22,14 +22,14 @@ Tasks
 
 The notebook includes the following tasks:
 
-RDD Creation and Statistics:
+1-RDD Creation and Statistics:
 
 Create an RDD of numbers (1 to 49) using NumPy.
 Compute sum, average, maximum, minimum, and count.
 Count even vs. odd numbers.
 
 
-People Data Analysis:
+2-People Data Analysis:
 
 Process an RDD of people data (name, age).
 Find the oldest person.
@@ -37,14 +37,14 @@ Compute the average age.
 Group names by age.
 
 
-Text Data Processing:
+3=Text Data Processing:
 
 Load text data from russia.txt into an RDD.
 Count total lines and lines containing "Russia".
 Tokenize words, remove stopwords, and find the top 5 most frequent words.
 
 
-DataFrame Operations:
+4-DataFrame Operations:
 
 Create a DataFrame with columns: id, name, age, salary.
 Display schema and select specific columns.
@@ -52,7 +52,7 @@ Compute average salary, filter employees by age, and count distinct names.
 Group by name and calculate average salary.
 
 
-Handling NULL Values:
+5-Handling NULL Values:
 
 Load a CSV file (NullData.csv) into a DataFrame.
 Compute average sales and replace NULL values in Name and Sales columns.
